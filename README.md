@@ -18,7 +18,6 @@ Crop Buddy is a smart farming assistant web application designed to support farm
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js / Python (Flask or Django) *(choose based on your implementation)*
-- **Machine Learning**: Python, Scikit-learn, TensorFlow *(if applicable)*
-- **Database**: MongoDB / MySQL
+- **Backend**: Node.js / Python (Flask)
+- **Machine Learning**: Python, Scikit-learn, TensorFlow 
 
